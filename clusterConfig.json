@@ -1,0 +1,36 @@
+[
+  {
+    "clusterName": "Cluster0",
+    "baseTier": "M30",
+    "scaleUpTier": "M40",
+    "shards": [
+      {
+        "shardIndex": 0,
+        "lastTierUpdate": "2026-01-11T15:44:27.290875+00:00"
+      },
+      {
+        "shardIndex": 1,
+        "lastTierUpdate": "2026-01-11T15:44:27.290875+00:00"
+      },
+      {
+        "shardIndex": 2,
+        "lastTierUpdate": "2026-01-11T15:44:27.290875+00:00"
+      }
+    ]
+  },
+  {
+    "clusterName": "Cluster1",
+    "baseTier": "M10",
+    "scaleUpTier": "M20",
+    "shards": [
+      {
+        "shardIndex": 0,
+        "lastTierUpdate": "2026-01-11T15:44:31.418822+00:00"
+      },
+      {
+        "shardIndex": 1,
+        "lastTierUpdate": "2026-01-11T15:44:31.418822+00:00"
+      }
+    ]
+  }
+]

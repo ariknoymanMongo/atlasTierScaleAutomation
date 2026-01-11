@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive config files (keep example/template versions)
+# clusterConfig.json  # Uncomment if you want to exclude the actual config
+# But keep clusterConfig.json.example if using templates
+
+# Logs
+*.log
+
